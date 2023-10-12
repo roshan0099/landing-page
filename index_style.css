@@ -220,6 +220,9 @@ span {
     margin-top : 35px;
 }
 
+#disclaimer{
+    display:none;
+}
 
 @media screen and (max-width: 900px) {
 
